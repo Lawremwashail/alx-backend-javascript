@@ -1,0 +1,17 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "0x01-ES6_promise",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+{
+	"scripts": {
+		"test": "jest"
+	}
+}
