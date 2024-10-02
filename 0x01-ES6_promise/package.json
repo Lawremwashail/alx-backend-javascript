@@ -4,16 +4,10 @@
   "description": "0x01-ES6_promise",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
 }
-{
-	"scripts": {
-		"test": "jest",
-		"lint": "eslint ."
-	}
-}
-
