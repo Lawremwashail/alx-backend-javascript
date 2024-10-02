@@ -12,6 +12,8 @@
 }
 {
 	"scripts": {
-		"test": "jest"
+		"test": "jest",
+		"lint": "eslint ."
 	}
 }
+
